@@ -1,5 +1,17 @@
 # MSCI 641 Assignment 1
 
+
+## Objective:
+1)Tokenizing the corpus (https://github.com/fuzhenxin/textstyletransferdata/tree/master/sentiment).
+
+2)Remove the following special characters: !"#$%&()*+/:;<=>@[\\]^`{|}~\t\n
+
+3)Creating two versions of your dataset: (a) with stopwordsand (b) without stopwords.
+
+4)Randomly spliting the data into training (80%), validation (10%) and test (10%) 
+
+
+## Running the code:
 To run the file, use the following command:
 ```python main.py```
 
