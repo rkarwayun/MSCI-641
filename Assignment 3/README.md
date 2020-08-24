@@ -1,5 +1,11 @@
 # MSCI 641 Assignment 3
 
+
+## Objective:
+Training a Word2Vec model on the Amazon data.
+
+
+## Running the code:
 **1) First run main.py with the following command:**
 
 ```python main.py``` : If pos.txt and neg.txt are available locally or
