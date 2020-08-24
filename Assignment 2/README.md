@@ -1,5 +1,11 @@
 # MSCI 641 Assignment 2
 
+
+## Objective:
+Evaluate the performance of MNB classifier for the classification of positive/negative reviews for data prepared in Assignment 1.
+
+
+## Running the code:
 To run the file, use the following command:
 ```python main.py```
 
